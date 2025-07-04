@@ -1,5 +1,0 @@
-\babel@toc {english}{}\relax 
-\contentsline {section}{Introducción}{3}{section*.2}%
-\contentsline {section}{\numberline {1}Propiedades de los números enteros}{4}{section.1}%
-\contentsline {subsection}{Definición 1.1 (Divisibilidad en \(\mathbb {Z}\))}{5}{section*.3}%
-\contentsline {section}{\numberline {2}Complejos}{6}{section.2}%
